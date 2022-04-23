@@ -16,7 +16,7 @@
 		<commons-lang3.version>3.6</commons-lang3.version>
 		<lombok.version>1.16.8</lombok.version>
 		<spring-boot.version>1.5.3.RELEASE</spring-boot.version>
-		<spring.version>4.3.8.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<aspectjweaver.version>1.8.10</aspectjweaver.version>
 		<mysql-connector-java.version>5.1.41</mysql-connector-java.version>
 		<commons-dbcp.version>1.4</commons-dbcp.version>
