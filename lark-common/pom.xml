@@ -19,7 +19,7 @@
 		<validation-api.version>1.1.0.Final</validation-api.version>
 		<logback-classic.version>1.1.7</logback-classic.version>
 		<jackson-mapper-asl.version>1.9.12</jackson-mapper-asl.version>
-		<jackson-databind.version>2.3.0</jackson-databind.version>
+		<jackson-databind.version>2.12.6.1</jackson-databind.version>
 		<dom4j.version>1.6.1</dom4j.version>
 		<jaxen.version>1.1.6</jaxen.version>
 		<joda-time.version>2.9.4</joda-time.version>
